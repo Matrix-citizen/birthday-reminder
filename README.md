@@ -1,10 +1,17 @@
-# Getting Started with Create React App
+# Birthday reminder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An element of the project, using React.js ('useState' hook)
 
-## Available Scripts
+## Usage
 
-In the project directory, you can run:
+### Install dependencies
 
-### `yarn start`
+```
+npm install
+```
 
+### Run React dev server (http://localhost:3000)
+
+```
+npm start
+```
