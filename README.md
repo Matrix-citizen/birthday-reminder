@@ -1,6 +1,6 @@
 # Birthday reminder
 
-An element of the project, using React.js ('useState' hook)
+An element of a project, using React.js
 
 ## Usage
 
