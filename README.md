@@ -1,6 +1,6 @@
 # Birthday reminder
 
-An element of a project, using React.js
+An element of a project, done  by using React.js
 
 ## Usage
 
